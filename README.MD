@@ -16,11 +16,11 @@
 <br>
 
 <p align="center">
-  <img alt="Loja de Café" src=".github/1.png.png" width="100%">
-  <img alt="Loja de Café" src=".github/2.png.png" width="100%">
-  <img alt="Loja de Café" src=".github/3.png.png" width="100%">
-  <img alt="Loja de Café" src=".github/4.png.png" width="100%">
-  <img alt="Loja de Café" src=".github/5.png.png" width="100%">
+  <img alt="Loja de Café" src=".github/1.png" width="100%">
+  <img alt="Loja de Café" src=".github/2.png" width="100%">
+  <img alt="Loja de Café" src=".github/3.png" width="100%">
+  <img alt="Loja de Café" src=".github/4.png" width="100%">
+  <img alt="Loja de Café" src=".github/5.png" width="100%">
 
 </p>
 
