@@ -37,7 +37,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Esse é um projeto da qual eu fiz para uma loja que tem como objetivo vender tipos de café.
-Obs: se clicar nas opções de comidas na aba de "Nossos serviços" e "Nossos produtos" irá abrir novas abas.
+Obs: se clicar nas opções de comidas na aba de "Nossos serviços" e "Nossos produtos" irá abrir novas abas e 
+foi integrado também o modo light/dark.
 
 
 
